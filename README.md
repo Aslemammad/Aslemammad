@@ -1,4 +1,4 @@
-<img src='./Intro (1).png' width='100%'></img>
+<img src='https://github.com/Aslemammad/Aslemammad/blob/master/Intro.png?raw=true' width='100%'></img>
 
 
 
@@ -29,4 +29,4 @@ I didn't mention *Articles* before, but I'm in love with writing in Medium.com a
 Feel free to contribute my project, You'll make me so happy with you contributes to my projects.
 
 ### 📄Resume 
-You can my Job resume <a href='./Resume.md'>here</a>.
+You can my Job resume <a href='https://github.com/Aslemammad/Aslemammad/blob/master/Resume.md'>here</a>.
