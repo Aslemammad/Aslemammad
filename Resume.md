@@ -1,7 +1,7 @@
 # M. Bagher Abiat
-I'm a FullStack JS developer and a nerd boy who loves writing JS, TS and solving some CP problems with C/C++. I'm working JS/TS for a year and I made much projects with them.
+I'm a FullStack( FrontEnd more) JS developer and a nerd boy who loves writing JS & TS. I just learn things, So I'm not afraid of learning new things.
 ## Writing
-I like writing too, because I love teaching others and share my experiences. Here is my articles:
+I like writing articles too, because I love teaching others and share my experiences. Here is my articles:
 
 - <a href='https://medium.com/@Aslemammad'>Medium</a>
 
@@ -23,21 +23,25 @@ I like writing too, because I love teaching others and share my experiences. Her
 	- NextJS
 	- AfterJS
 	- Jest
-	- ...
+	- PWA
+	- React-bootstrap | MaterialUI
+	- Webpack
+	- Rollup
+	
 - NodeJS 
 	- Express
 	- Fastify
 	- MongoDB
 	- Rest
-	- ...
 - Deno 
 - Gnu/linux
 - Git
+- Algorithms and Data structures
 
 ## Languages 
-- Arabic (Native)
-- Persian (Second)
-- English (Proficient)
+- Persian
+- Arabic
+- English
 
 ## Projects | <i>Done</i>
 Projects that are stable now.
@@ -57,7 +61,7 @@ Projects that are stable now.
 - We built espresso to have a expressJs in Deno
 
 ### <a href='https://github.com/Aslemammad/simple-shop-front'>Simple Shop Website</a>
-- A practice project for simulating a shop. 
+- A practice project for simulating an ecommerce shop. 
 
 ## Projects | <i>Working</i>
 Projects that aren't done yet and I'm currently working on, So They have bugs now, They'll be done soon.
