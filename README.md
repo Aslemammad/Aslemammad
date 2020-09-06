@@ -18,6 +18,7 @@ I'm a FullStack JS developer and a nerd boy who loves writing JS, TS and solving
 
 I didn't mention *Articles* before, but I'm in love with writing in Medium.com and Virgool.io. Here's my articles:
 
+- <a href='https://bugged.dev'>Bugged.dev</a>
 - <a href='https://medium.com/@Aslemammad'>Medium</a>
 - <a href='https://virgool.io/@Aslemammad'>Virgool</a>
 
