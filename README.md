@@ -16,7 +16,7 @@ I'm a FullStack JS developer and a nerd boy who loves writing JS, TS and solving
 
 ### ✏ Articles
 
-I didn't mention *Articles* before, but I'm in love with writing. Here's my articles:
+I didn't mention *Articles* before, but I'm in love with writing. articles:
 
 - <a href='https://bugged.dev'>Bugged.dev</a>
 - <a href='https://medium.com/@Aslemammad'>Medium</a>
