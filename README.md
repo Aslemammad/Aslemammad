@@ -29,8 +29,3 @@ Feel free to contribute my project, You'll make me so happy.
 You can see my resume <a href='https://github.com/Aslemammad/Aslemammad/blob/master/Resume.md'>here</a>.
 ### Contact 
 - <a href='https://t.me/aslemammad'>Telegram</a>
-
-### Donation 
-BTC address: **1P5sHxAg3cwgTtZ7pTrZP4gPsEDjguuAsw** .
-
-- <a href='https://www.binance.com/' >Binance</a>
