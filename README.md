@@ -23,10 +23,10 @@ I didn't mention *Articles* before, but I'm in love with writing. articles:
 - <a href='https://virgool.io/@Aslemammad'>Virgool</a>
 
 ### 🛠 Contribution
-Feel free to contribute my project, You'll make me so happy with you contributes to my projects.
+Feel free to contribute my project, You'll make me so happy.
 
 ### 📄 Resume 
-You can see my Job resume <a href='https://github.com/Aslemammad/Aslemammad/blob/master/Resume.md'>here</a>.
+You can see my resume <a href='https://github.com/Aslemammad/Aslemammad/blob/master/Resume.md'>here</a>.
 ### Contact 
 - <a href='https://t.me/aslemammad'>Telegram</a>
 
