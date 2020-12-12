@@ -44,37 +44,40 @@ I like writing articles too, because I love teaching others and share my experie
 - Arabic
 - English
 
-## Projects | <i>Done</i>
-Projects that are stable now.
+## Projects | <i>Business</i>
+Projects that I worked on.
+
+### <a href='https://front.seritaa.com'>Seritaa</a> <i>Front-end</i>
+- A webapp for taking plans, consultations and ... from doctors.
+
+
+## Projects | <i>OSS</i>
+Open source Projects that I wrote or contibuted to.
+
+### <a href='https://github.com/pmndrs/jotai'>Jotai</a>
+- Ghost Primitive, flexible state management for React
+- Passed 2000/Week downloads
+
+### <a href='https://github.com/pmndrs/valtio'>Valtio</a>
+- Valtio makes proxy-state simple for React and Vanilla
+- Fast & easy
+
+### <a href='https://github.com/dai-shi/use-context-selector'>Use-context-selector</a>
+- React useContextSelector hook in userland
+- A faster React context
+
 ### <a href='https://github.com/Aslemammad/contextism'>Contextism</a>
-- React package to Improve your hooks and React context, So have bettter state management.
+- React package to Improve your hooks and React context, So have bettter state management
 - Passed 1000/Week downloads
 - Type strict
+
 
 ### <a href='https://github.com/Aslemammad/Xmoji'>Xmoji</a>
 - We don't have strong emoji picker for our OS, So I  built Xmoji for Win/linux with React/Electron
 - Strong, Fast, Customizable
-
-### <a href='https://github.com/Aslemammad/coffee'>Coffee</a>
-- Don't miss nodejs, We built Coffee for config management for Deno
-
-### <a href='https://github.com/disizali/espresso'>Espresso</a>
-- We built espresso to have a expressJs in Deno
-
-### <a href='https://github.com/Aslemammad/hangman'>Hangman</a>
-- A guess word game built with React/Typescript
-- Good animations and Great performance
 
 
 ### <a href='https://github.com/Aslemammad/Bugged.dev'>Bugged.dev</a>
 - My own SSG Blog for sharing knowledge.
 
 
-### <a href='https://github.com/Aslemammad/simple-shop-front'>Simple Shop Website</a>
-- A practice project for simulating an ecommerce shop. 
-
-## Projects | <i>Working</i>
-Projects that aren't done yet and I'm currently working on, So They have bugs now, They'll be done soon.
-
-### <a href='https://github.com/pyspider-devs/pyspider_website'>PySpider Website</a>
-- Practice/Challenge website for PySpider Community built with NextJs/ReactJS/Typescript
