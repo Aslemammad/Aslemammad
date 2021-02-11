@@ -14,7 +14,7 @@ I like writing articles too, because I love teaching others and share my experie
 - Telegram: <a href='https://t.me/aslemammad' >Aslemammad</a>
 - Instagram (deprecated): <a href='https://instagram.com/bagher.codes'>bagher.codes</a>
 - Location: Ahvaz, Iran
-- Birth: 16/02/2004
+- Birth: 15/02/2004
 
 ## Skills
 - ReactJS 
