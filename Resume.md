@@ -1,6 +1,6 @@
 # M. Bagher Abiat
 
-A fullStack JS developer and enthusiast who can help your lovely team grows, reach the next level and try to solve challenges with your lovely team. 
+A fullStack JS developer and enthusiast who can help your lovely team grows, reaches the next level and try to solve challenges with your lovely team. 
 
 ## Writing
 
