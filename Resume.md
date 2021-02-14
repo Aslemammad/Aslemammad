@@ -45,9 +45,6 @@ I like writing articles too because I love teaching others and share my experien
 - Arabic
 
 ## Projects | <i>Products</i>
-
-Projects that I worked on.
-
 ### <a href='https://front.seritaa.com'>Seritaa</a> <i>Front-end</i>
 
 - A web app for taking plans, consultations and... from doctors.
@@ -61,8 +58,6 @@ I learned about new libraries like MobX and MobX-State-tree, and technologies li
 I got familiar with unique patterns like controllers and services in nodejs, they had some trade-offs in DX, because I had to move things sometimes, but they were great and structural. The most amazing thing I was so excited for, at the time, it was typescript, I wrote the whole project with typescript, so I knew what I was doing and what I want. I was lucky for this too, because I had great Front-end team for the project.
 
 ## Projects | <i>Open-source</i>
-
-Open source Projects that I wrote or contributed to:
 
 ### <a href='https://github.com/pmndrs/jotai'>Jotai</a>
 
