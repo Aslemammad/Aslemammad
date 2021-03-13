@@ -12,7 +12,7 @@ I'm a FullStack JS developer and a nerd boy who loves writing JS, TS and solving
 - 💬 Ask me about ReactJS, NodeJS and other JS/TS stuff
 - 📫 How to reach me: `zorofight94@gmail.com`
 - 😄 Pronouns: Mohammad or Bagher
-- ⚡ Fun fact: I'm big Typescript lover
+- ⚡ Fun fact: I'm a big Typescript lover
 
 ### ✏ Articles
 
