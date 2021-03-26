@@ -57,6 +57,13 @@ I learned about new libraries like MobX and MobX-State-tree, and technologies li
 
 I got familiar with unique patterns like controllers and services in nodejs, they had some trade-offs in DX, because I had to move things sometimes, but they were great and structural. The most amazing thing I was so excited for, at the time, it was typescript, I wrote the whole project with typescript, so I knew what I was doing and what I want. I was lucky for this too, because I had great Front-end team for the project.
 
+### <a href='https://studioborabora.com/'>BoraBora</a> <i>Front-end</i>
+
+- Studio BoraBora is your creative technology studio
+specialized in experiential real-time installations.
+
+Here where I managed how to learn multiple new stuff at the same time and put them in one project. Working with Florian and his team was a great experience, they helped me with finding my new interest, react-three-fiber and threejs, which I'd love to dig into it, work on it and share my experience with it.  
+
 ## Projects | <i>Open-source</i>
 
 ### <a href='https://github.com/pmndrs/jotai'>Jotai</a>
@@ -80,6 +87,12 @@ When it comes to proxies, everything changes, such a beautiful concept in javasc
 
 I learned where to use useMemo, and other React memoization utils, they are great utils but dangerous sometimes.  
 
+
+### <a href='https://github.com/pmndrs/react-spring'>React Spring</a>
+
+- react-spring is a spring-physics based animation library that should cover
+
+Here's my new open source goal which I contributed to it lately and I'll work on it more later.  
 ### <a href='https://github.com/Aslemammad/contextism'>Contextism</a>
 
 - React package to Improve your hooks and React context, So have bettter state management
