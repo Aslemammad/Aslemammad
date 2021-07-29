@@ -16,7 +16,7 @@ I like writing articles too because I love teaching others and share my experien
 - Email: zorofight94@gmail.com
 - Github: <a href='https://github.com/aslemammad'>Aslemammad</a>
 - Telegram: <a href='https://t.me/aslemammad' >Aslemammad</a>
-- LinkedIn: <a href='https://www.linkedin.com/in/mohammad-bagher-a-521183198/' >M. Bagher Abiat</a>
+- LinkedIn: <a href='https://www.linkedin.com/in/m-bagher-a-521183198/' >M. Bagher Abiat</a>
 - Location: Ahvaz, Iran
 - Birth: 15/02/2004
 
