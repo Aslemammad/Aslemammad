@@ -6,6 +6,6 @@ Founder of [Tinylibs](https://github.com/tinylibs) and [Pheno Agency](https://gi
 **Open for Projects, Contracts, Part-time and Full-time jobs! Send me a DM on Twitter or an Email.**
   
 [twitter](https://twitter.com/aslemammadam) |
-[blog](https://bugged.dev)
+[blog](https://minimalistweb.dev)
 
 </samp>
