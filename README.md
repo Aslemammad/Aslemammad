@@ -1,7 +1,7 @@
 
 <samp>
   
-currently on http://bolt.new through http://thundraa.com! 
+currently on [bolt.new](https://bolt.new) through [thundraa](https://thundraa.com)! 
 
-built https://pkg.pr.new, https://github.com/tinylibs/ and https://vitest.dev/guide/browser
+previously built [pkg.pr.new](https://pkg.pr.new), [tinylibs](https://github.com/tinylibs/) and [vitest browser mode](https://vitest.dev/guide/browser)
 </samp>
