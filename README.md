@@ -1,9 +1,7 @@
 
 <samp>
   
-Founder of [Tinylibs](https://github.com/tinylibs). Also member of [Poimandres](https://github.com/pmndrs) and [Vitest](https://github.com/vitest-dev)
+currently on http://bolt.new through http://thundraa.com! 
 
-[twitter](https://twitter.com/aslemammadam) |
-[blog](https://minimalistweb.dev)
-
+built https://pkg.pr.new, https://github.com/tinylibs/ and https://vitest.dev/guide/browser
 </samp>
